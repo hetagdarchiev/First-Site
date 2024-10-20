@@ -1,0 +1,43 @@
+*
+{
+    font-family: 'Montserrat-Medium';
+	font-size: 14px;
+	line-height: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+.container 
+{
+	max-width: 1550px;
+	margin: 0 auto;
+	padding: 0 40px;
+}
+ul
+{
+	list-style-type: none;
+}
+a
+{
+	color: #000000 ;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: underline;	
+}
+a:visted
+{
+	color:  #181513;
+}
+h2
+{
+	font-family: 'Montserrat-SemiBold';
+	font-size: 36px;
+	line-height: 50px;
+}
+
+/*
+section
+{
+	padding-top: 100px;
+}*/
